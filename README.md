@@ -198,4 +198,4 @@ The workflow:
 ## Important production note
 
 This is an educational MLOps project. A production architecture would normally use AWS EKS rather than a single EC2-hosted k3s cluster, private networking, TLS/HTTPS, a proper model registry or artifact store, image vulnerability scanning, secrets management, monitoring, logging, autoscaling, and immutable image/model versioning.
-# http://3.82.98.80:30080/docs
+# http://52.54.222.198:30080/docs
