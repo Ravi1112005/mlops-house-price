@@ -139,7 +139,7 @@ jobs:
 
             echo "Starting deployment..."
 
-            cd ~/k8s
+            cd ~/mlops-house-price/k8s
 
             echo "Applying Kubernetes Service..."
 
